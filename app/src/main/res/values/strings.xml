@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TaskPerf1</string>
+    <string name="new_arrivals">New Arrivals</string>
+    <string name="gensan_hub">Gensan Electronic Mobile Library Hub</string>
 </resources>
